@@ -1,0 +1,14 @@
+APP_DIRS :=
+
+APP_DIRS += pov_via_pwm
+
+
+ASSEM_FILES :=
+
+ASSEM_FILES += pov_via_pwm/pov_via_pwm.p
+
+
+BIN_FILES :=
+
+BIN_FILES += pov_via_pwm.bin
+

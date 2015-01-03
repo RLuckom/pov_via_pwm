@@ -1,0 +1,8 @@
+*.pyc
+*~
+log.txt
+*.swp
+*.patch
+bin/
+
+*.pdb
